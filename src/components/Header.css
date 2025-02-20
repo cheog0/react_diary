@@ -1,0 +1,9 @@
+.Header {
+  display: flex;
+  align-items: center;
+  padding: 20px 0px;
+}
+
+.Header > div {
+  display: flex;
+}
